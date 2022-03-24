@@ -29,6 +29,7 @@ I am a person who constantly learn new things about technology,artificial ıntel
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliriza4153@gmail.com) &emsp;
 [![](https://img.shields.io/badge/Hackerrank-0bb359?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/riza_celik) &emsp;
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aliriza41/) &emsp; 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranked&theme=blue-green)
 ## Stats 🧠
 ![Ali Rıza Çelik's github stats](https://github-readme-stats.vercel.app/api?username=Cranked&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=1000&bg_color=0,#f6736,#6533f)

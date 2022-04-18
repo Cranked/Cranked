@@ -32,7 +32,7 @@ I am a person who constantly learn new things about technology,artificial ıntel
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranked&theme=blue-green)
 ## Stats 🧠
-![Ali Rıza Çelik's github stats](https://github-readme-stats.vercel.app/api?username=Cranked&count_private=true&show_icons=true&cache_seconds=1000&bg_color=0,#f6736,#6533f)
+![Ali Rıza Çelik's github stats](https://github-readme-stats.vercel.app/api?username=Cranked&count_private=true&show_icons=true&hide=contribs&cache_seconds=1000&bg_color=0,#f6736,#6533f)
 <img src="https://komarev.com/ghpvc/?username=Cranked&label=Profile%20views&color=0e75b6&style=round" alt="CRANKED" />
 [![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#) &emsp;
 

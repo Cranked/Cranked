@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Rıza Çelik
 - 👀 I constantly develop in Mobile Application
 ## About 👋
-I am a person who constantly learn new things about technology,artificial ıntelligence,data science.I always think that how to become better  current system.
+I am a person who constantly learn new things about mobile application development.I always think that how to become better  current system.
 ## Skills 🚀 
 [![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#) &emsp;

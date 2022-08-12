@@ -25,10 +25,11 @@ I am a person who constantly learn new things about mobile application developme
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:riza-celik@outlook.com) &emsp;
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliriza4153@gmail.com) &emsp;
 ## Stats 🧠
-![Ali Rıza Çelik's github stats](https://github-readme-stats.vercel.app/api?username=Cranked&count_private=false&show_icons=true&hide=contribs&theme=gruvbox)
+![Ali Rıza Çelik's github stats](https://github-readme-stats.vercel.app/api?username=Cranked&count_private=true&show_icons=true&hide=contribs&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranked&exclude_repo=fruit360,data-extraction,data-science,avacado-prices,diabete-disease-analysis,cereal-prices-analysis,)](https://github.com/Cranked/Cranked)
 
+![](https://komarev.com/ghpvc/?username=Cranked&color=red)
 [![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#) &emsp;
 
 
